@@ -1,5 +1,5 @@
 .main-title {
-  animation: color-animate 10s infinite linear;
+  animation: color-animate 15s infinite linear;
   background-clip: text;
   background-image: linear-gradient(90.72deg, #76dbfd -5.18%, #1896cd 105.24%);
   font-family: "Montserrat", sans-serif;
