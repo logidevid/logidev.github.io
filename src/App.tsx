@@ -19,7 +19,7 @@ function App() {
             Boom Shakalaka!
           </h1>
           <p className="sm:text-[22px] text-[14px]">
-            We're currently working on creating our website.
+            We're currently working on creating our beautiful website.
           </p>
         </div>
 
